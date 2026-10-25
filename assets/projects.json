@@ -1,0 +1,21 @@
+{
+  "_comment": "Featured repos in README order. Star/fork/language come live from the API on every run.",
+  "projects": [
+    {
+      "repo": "AR-Tech-Solutions",
+      "description": "Full-stack enterprise platform. React 19 glassmorphic interface, Node/Express SQLite engine, dual WhatsApp/SMS dispatch, and live admin analytics."
+    },
+    {
+      "repo": "ssits-attendance-system",
+      "description": "Institutional attendance portal for Sri Sai Institute of Technology & Science, digitizing daily records across 27 academic branches."
+    },
+    {
+      "repo": "asma-portfolio",
+      "description": "Luxury dark glassmorphic personal engineering showcase featuring interactive project spotlights, skill radars, and 1-click recruiter reachout."
+    },
+    {
+      "repo": "shopping-mall",
+      "description": "Full-stack e-commerce catalog featuring dynamic product filtering, cart state management, and modern responsive UI design."
+    }
+  ]
+}

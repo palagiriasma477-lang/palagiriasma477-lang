@@ -1,0 +1,13 @@
+{
+  "title": "Skill Radar",
+  "_comment": "Self-rated engineering proficiencies across frontend, backend, databases, and DevOps.",
+  "axes": [
+    { "label": "React / Frontend", "value": 90 },
+    { "label": "Node.js / Express", "value": 88 },
+    { "label": "JavaScript / TS", "value": 85 },
+    { "label": "Databases & SQL", "value": 82 },
+    { "label": "System Design", "value": 78 },
+    { "label": "Python", "value": 75 },
+    { "label": "DevOps & Git", "value": 80 }
+  ]
+}
