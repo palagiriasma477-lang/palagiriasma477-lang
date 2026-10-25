@@ -1,45 +1,45 @@
 <div align="center">
 
-  <!-- 🌟 Majestic Animated Waving Gradient Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,25,30&height=250&section=header&text=Asma%20Palagiri&fontSize=52&fontColor=ffffff&fontAlignY=36&animation=twinkling" width="100%" alt="Header Banner" />
+  <!-- 🌟 Top Majestic Animated Waving Gradient Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,25,30&height=260&section=header&text=Asma%20Palagiri&fontSize=54&fontColor=ffffff&fontAlignY=36&animation=twinkling" width="100%" alt="Header Wave Banner" />
 
-  <!-- ⚡ Dynamic Glowing Typing SVGs (Kinetic Typography) -->
+  <!-- ⚡ Glowing Neon Animated Kinetic Typing Subtitle -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Plus+Jakarta+Sans&weight=800&size=28&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=780&lines=Full-Stack+Software+Engineer;High-Impact+Digital+Product+Architect;MERN+Stack+%E2%80%A2+Node.js+%E2%80%A2+Express+%E2%80%A2+Python;Building+Scalable+Commercial+Enterprise+Software;Transforming+Ideas+Into+High-Performance+Code" alt="Dynamic Typing Headline" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Plus+Jakarta+Sans&weight=800&size=28&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=800&lines=Full-Stack+Software+Engineer+%E2%9C%A8;MERN+Stack+%E2%80%A2+Node.js+%E2%80%A2+Express+%E2%80%A2+Python;Scalable+Enterprise+Cloud+Platforms;High-Impact+Digital+Product+Architect;Passionate+Problem+Solver+%E2%80%A2+Always+Innovating" alt="Kinetic Typing Headline" />
   </a>
 
   <br /><br />
 
-  <!-- 🏆 Central Executive Hero Card: Photo with Glowing Holographic Ring -->
+  <!-- 🏆 EYE-FEAST ANIMATED PHOTO: Rotating Neon Laser Orbit & Holographic Aura -->
   <table border="0" cellpadding="0" cellspacing="0" style="border: none; background: transparent;">
     <tr>
       <td align="center">
         <a href="https://github.com/palagiriasma477-lang">
-          <img src="https://raw.githubusercontent.com/palagiriasma477-lang/palagiriasma477-lang/main/avatar.png" width="220" height="220" style="border-radius: 50%; border: 5px solid #38bdf8; box-shadow: 0 0 50px rgba(56, 189, 248, 0.7); object-fit: cover;" alt="Asma Palagiri - Full Stack Software Engineer" />
+          <img src="https://raw.githubusercontent.com/palagiriasma477-lang/palagiriasma477-lang/main/avatar-animated.svg" width="280" height="280" alt="Asma Palagiri - Animated Holographic Portrait" />
         </a>
-        <br /><br />
-        <img src="https://readme-typing-svg.herokuapp.com?font=Plus+Jakarta+Sans&weight=700&size=20&duration=3000&pause=1000&color=F59E0B&center=true&vCenter=true&width=620&lines=Available+for+Immediate+Hiring+%E2%9C%A8;Open+to+Full-Time+Software+Roles+%E2%9C%94%EF%B8%8F" alt="Hiring Status" />
+        <br />
+        <img src="https://readme-typing-svg.herokuapp.com?font=Plus+Jakarta+Sans&weight=700&size=20&duration=3000&pause=1000&color=F59E0B&center=true&vCenter=true&width=620&lines=%E2%AD%90+Actively+Interviewing+%26+Ready+to+Deploy;%E2%9C%94%EF%B8%8F+Open+to+Full-Time+Software+Engineering+Roles" alt="Hiring Status Tag" />
       </td>
     </tr>
   </table>
 
   <br />
 
-  <!-- 🌐 Direct 1-Click Executive Action Badges (With Direct Resume Download) -->
+  <!-- 🌐 Vibrant 1-Click Executive Action Buttons -->
   <a href="https://raw.githubusercontent.com/palagiriasma477-lang/palagiriasma477-lang/main/PALAGIRI_ASMA_RESUME.doc">
-    <img src="https://img.shields.io/badge/Download%20Official%20Resume%20(.Doc)-0077B5?style=for-the-badge&logo=googledocs&logoColor=white" alt="Download Resume" />
+    <img src="https://img.shields.io/badge/%F0%9F%93%A5%20Download%20Resume%20(.Doc)-0284C7?style=for-the-badge&logo=googledocs&logoColor=white" alt="Download Resume" />
   </a>
   &nbsp;&nbsp;
   <a href="mailto:palagiriasma477@gmail.com">
-    <img src="https://img.shields.io/badge/Hire%20Me%20Via%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Hire Me" />
+    <img src="https://img.shields.io/badge/%E2%9C%89%EF%B8%8F%20Hire%20Me%20Via%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Hire Me" />
   </a>
   &nbsp;&nbsp;
   <a href="https://wa.me/919390011965">
-    <img src="https://img.shields.io/badge/WhatsApp%20Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+    <img src="https://img.shields.io/badge/%F0%9F%92%AC%20WhatsApp%20Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/palagiriasma477-lang/AR-Tech-Solutions">
-    <img src="https://img.shields.io/badge/Production%20Project-000000?style=for-the-badge&logo=github&logoColor=white" alt="Live Project" />
+    <img src="https://img.shields.io/badge/%F0%9F%9A%80%20Featured%20Project-000000?style=for-the-badge&logo=github&logoColor=38BDF8" alt="Featured Project" />
   </a>
 
 </div>
@@ -54,8 +54,8 @@
 
 - 📍 **Location:** Rayachoty & Kadapa, Andhra Pradesh, India
 - 🎯 **Target Roles:** Full-Stack Developer • Frontend Engineer • Software Engineer (Node.js / React / Python)
-- ⚡ **Key Superpowers:** High-velocity delivery, intuitive UI design, seamless REST API integration, and database optimization.
-- 📄 **Resume:** [Download Official Resume (.Doc)](https://raw.githubusercontent.com/palagiriasma477-lang/palagiriasma477-lang/main/PALAGIRI_ASMA_RESUME.doc)
+- ⚡ **Core Strengths:** High-velocity sprint delivery, responsive UI architecture, REST API security, and database indexing.
+- 📄 **Resume File:** [Download Official Resume (.Doc)](https://raw.githubusercontent.com/palagiriasma477-lang/palagiriasma477-lang/main/PALAGIRI_ASMA_RESUME.doc)
 
 ---
 
