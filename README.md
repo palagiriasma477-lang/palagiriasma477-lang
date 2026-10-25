@@ -41,6 +41,10 @@
   <a href="https://github.com/palagiriasma477-lang/AR-Tech-Solutions">
     <img src="https://img.shields.io/badge/%F0%9F%9A%80%20Featured%20Project-000000?style=for-the-badge&logo=github&logoColor=38BDF8" alt="Featured Project" />
   </a>
+  &nbsp;&nbsp;
+  <a href="https://palagiriasma477-lang.github.io/asma-portfolio/">
+    <img src="https://img.shields.io/badge/%F0%9F%8C%90%20Live%20Portfolio-8A2BE2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Portfolio" />
+  </a>
 
 </div>
 
@@ -166,7 +170,7 @@
   <table>
     <tr>
       <td width="60%" align="left">
-        <h3>🎓 <a href="https://github.com/kamanurubasha-coder/ssits-attendance-system">SSITS Attendance Management System</a></h3>
+        <h3>🎓 <a href="https://github.com/palagiriasma477-lang/ssits-attendance-system">SSITS Attendance Management System</a></h3>
         <p><b>Institutional Attendance & Academic Record Tracking Portal</b></p>
         <span style="background: #1e3a8a; color: #38bdf8; padding: 3px 10px; border-radius: 12px; font-size: 12px; font-weight: bold;">🤝 Core Technical Collaborator</span>
         <br /><br />
@@ -177,13 +181,45 @@
           <li><b>Automated Reporting:</b> Generates consolidated departmental attendance summaries and low-attendance alert notifications.</li>
         </ul>
         <br />
-        <a href="https://github.com/kamanurubasha-coder/ssits-attendance-system">
+        <a href="https://github.com/palagiriasma477-lang/ssits-attendance-system">
           <img src="https://img.shields.io/badge/Collaborator%20Repository-SSITS%20Attendance-38BDF8?style=for-the-badge&logo=github&logoColor=black" alt="View Collaboration" />
         </a>
       </td>
       <td width="40%" align="center">
-        <a href="https://github.com/kamanurubasha-coder/ssits-attendance-system">
+        <a href="https://github.com/palagiriasma477-lang/ssits-attendance-system">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=kamanurubasha-coder&repo=ssits-attendance-system&theme=tokyonight&border_color=38bdf8" alt="SSITS Attendance System Project Card" />
+        </a>
+      </td>
+    </tr>
+  </table>
+
+  <br />
+
+  <!-- Project 3: Interactive Glassmorphic Portfolio -->
+  <table>
+    <tr>
+      <td width="60%" align="left">
+        <h3>🌐 <a href="https://github.com/palagiriasma477-lang/asma-portfolio">Asma Palagiri — Interactive Glassmorphic Portfolio</a></h3>
+        <p><b>Flagship Digital Portfolio & Live Interactive Experience</b></p>
+        <span style="background: #3b0764; color: #c084fc; padding: 3px 10px; border-radius: 12px; font-size: 12px; font-weight: bold;">💎 Personal Flagship Showcase</span>
+        <br /><br />
+        <ul>
+          <li><b>Visual Excellence:</b> Engineered with custom CSS glassmorphism, responsive viewports, and neon laser animations.</li>
+          <li><b>Comprehensive Showcase:</b> Live project previews, technical skill stack, academic timeline, and 1-click recruiter contact.</li>
+          <li><b>Continuous Deployment:</b> Zero-config GitHub Pages hosting with lightning-fast load times.</li>
+        </ul>
+        <br />
+        <a href="https://palagiriasma477-lang.github.io/asma-portfolio/">
+          <img src="https://img.shields.io/badge/%F0%9F%8C%90%20Visit%20Live%20Website-8A2BE2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit Website" />
+        </a>
+        &nbsp;&nbsp;
+        <a href="https://github.com/palagiriasma477-lang/asma-portfolio">
+          <img src="https://img.shields.io/badge/View%20Code-100000?style=for-the-badge&logo=github&logoColor=white" alt="View Repository" />
+        </a>
+      </td>
+      <td width="40%" align="center">
+        <a href="https://github.com/palagiriasma477-lang/asma-portfolio">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=palagiriasma477-lang&repo=asma-portfolio&theme=tokyonight&border_color=8a2be2" alt="Asma Portfolio Project Card" />
         </a>
       </td>
     </tr>
