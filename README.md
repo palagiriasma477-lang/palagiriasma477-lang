@@ -80,10 +80,11 @@
 
 ---
 
-### 🚀 Production Flagship Project: AR Tech Solutions
+### 🚀 Featured Production Projects & Engineering Collaborations
 
 <div align="center">
 
+  <!-- Project 1: AR Tech Solutions -->
   <table>
     <tr>
       <td width="60%" align="left">
@@ -103,6 +104,35 @@
       <td width="40%" align="center">
         <a href="https://github.com/palagiriasma477-lang/AR-Tech-Solutions">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=palagiriasma477-lang&repo=AR-Tech-Solutions&theme=tokyonight&border_color=38bdf8" alt="AR Tech Solutions Project Card" />
+        </a>
+      </td>
+    </tr>
+  </table>
+
+  <br />
+
+  <!-- Project 2: SSITS Attendance System (Collaborator Project) -->
+  <table>
+    <tr>
+      <td width="60%" align="left">
+        <h3>🎓 <a href="https://github.com/kamanurubasha-coder/ssits-attendance-system">SSITS Attendance Management System</a></h3>
+        <p><b>Institutional Attendance & Academic Record Tracking Portal</b></p>
+        <span style="background: #1e3a8a; color: #38bdf8; padding: 3px 10px; border-radius: 12px; font-size: 12px; font-weight: bold;">🤝 Core Technical Collaborator</span>
+        <br /><br />
+        <ul>
+          <li><b>Student & Faculty Management:</b> Comprehensive digital attendance portal replacing manual registers across academic departments.</li>
+          <li><b>Role-Based Workflows:</b> Designed multi-tiered user authentication for Faculty, Department Heads, and Students.</li>
+          <li><b>Relational Schema Architecture:</b> Modeled database records to capture daily period attendance, leave requests, and percentage analytics.</li>
+          <li><b>Automated Reporting:</b> Generates consolidated departmental attendance summaries and low-attendance alert notifications.</li>
+        </ul>
+        <br />
+        <a href="https://github.com/kamanurubasha-coder/ssits-attendance-system">
+          <img src="https://img.shields.io/badge/Collaborator%20Repository-SSITS%20Attendance-38BDF8?style=for-the-badge&logo=github&logoColor=black" alt="View Collaboration" />
+        </a>
+      </td>
+      <td width="40%" align="center">
+        <a href="https://github.com/kamanurubasha-coder/ssits-attendance-system">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=kamanurubasha-coder&repo=ssits-attendance-system&theme=tokyonight&border_color=38bdf8" alt="SSITS Attendance System Project Card" />
         </a>
       </td>
     </tr>
