@@ -1,0 +1,205 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Palagiri Asma — Software Engineer Resume</title>
+<style>
+  @page {
+    size: A4;
+    margin: 18mm 18mm 18mm 18mm;
+  }
+  body {
+    font-family: 'Calibri', 'Segoe UI', Arial, sans-serif;
+    color: #111827;
+    line-height: 1.45;
+    margin: 0;
+    padding: 24px;
+    background: #fff;
+    font-size: 10.5pt;
+  }
+  h1 {
+    font-size: 22pt;
+    font-weight: 800;
+    margin: 0 0 2px 0;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    color: #0f172a;
+  }
+  .subtitle {
+    font-size: 11pt;
+    font-weight: 700;
+    color: #1e3a8a;
+    margin-bottom: 6px;
+  }
+  .contact-bar {
+    font-size: 9.5pt;
+    color: #475569;
+    border-bottom: 1.5px solid #0f172a;
+    padding-bottom: 8px;
+    margin-bottom: 14px;
+  }
+  .contact-bar a {
+    color: #1e3a8a;
+    text-decoration: none;
+    font-weight: 600;
+  }
+  h2 {
+    font-size: 11.5pt;
+    font-weight: 800;
+    color: #0f172a;
+    text-transform: uppercase;
+    border-bottom: 1px solid #cbd5e1;
+    padding-bottom: 3px;
+    margin: 14px 0 8px 0;
+    letter-spacing: 0.5px;
+  }
+  p {
+    margin: 0 0 6px 0;
+    text-align: justify;
+  }
+  ul {
+    margin: 4px 0 8px 18px;
+    padding: 0;
+  }
+  li {
+    margin-bottom: 4px;
+  }
+  .item-header {
+    display: flex;
+    justify-content: space-between;
+    font-weight: 700;
+    color: #0f172a;
+    margin-top: 6px;
+    margin-bottom: 2px;
+  }
+  .item-sub {
+    font-size: 9.5pt;
+    color: #1e3a8a;
+    font-weight: 600;
+    margin-bottom: 4px;
+  }
+  .skills-row {
+    margin-bottom: 4px;
+  }
+  .skills-row strong {
+    color: #0f172a;
+  }
+  .signature-table {
+    width: 100%;
+    margin-top: 18px;
+    border-top: 1px solid #cbd5e1;
+    padding-top: 8px;
+    font-size: 9.5pt;
+  }
+</style>
+</head>
+<body>
+
+<h1>PALAGIRI ASMA</h1>
+<div class="subtitle">Software Engineer | Frontend &amp; Full-Stack Web Developer</div>
+<div class="contact-bar">
+  Rayachoty, Andhra Pradesh &nbsp;|&nbsp; +91 9390011965 &nbsp;|&nbsp; 
+  <a href="mailto:palagiriasma477@gmail.com">palagiriasma477@gmail.com</a> &nbsp;|&nbsp;
+  <a href="https://github.com/palagiriasma477-lang">GitHub: palagiriasma477-lang</a> &nbsp;|&nbsp;
+  <a href="https://linkedin.com/in/palagiriasma">LinkedIn: palagiriasma</a>
+</div>
+
+<h2>Professional Summary</h2>
+<p>
+  Results-driven Computer Science graduate with hands-on expertise in Frontend and Full-Stack Web Development, specializing in <b>JavaScript (ES6+), React JS, Node.js, Express.js, HTML5, CSS3, REST APIs, and SQL/SQLite/MySQL</b>. Proven track record of designing responsive UI components, building production-grade web platforms with admin analytics dashboards, and handling asynchronous client-server communication. Brings 2+ years of professional technical experience mentoring 120+ engineers, conducting code walkthroughs, and debugging production code. Certified in Quantum Computing and Advanced Research Methodologies alongside Web Development; eager to contribute to high-impact software engineering teams.
+</p>
+
+<h2>Technical Skills</h2>
+<div class="skills-row"><strong>Languages:</strong> JavaScript (ES6+), SQL, Python, HTML5, CSS3, Core Java / C (Basics).</div>
+<div class="skills-row"><strong>Frontend &amp; UI:</strong> React JS (v19), Vite, React Router, Virtual DOM, React Hooks (useState, useEffect), Tailwind CSS, Responsive Design, CSS Grid, Flexbox, Glassmorphism.</div>
+<div class="skills-row"><strong>Backend &amp; API Architecture:</strong> Node.js, Express.js, RESTful API Design &amp; Integration, JSON Parsing, Fetch / Axios, Asynchronous Programming (async/await), Postman, SheetJS (Excel automation).</div>
+<div class="skills-row"><strong>Databases:</strong> MySQL, SQLite3, Relational Schema Modeling, 3NF Normalization, Complex Multi-Table JOINs, Indexing, CRUD Operations.</div>
+<div class="skills-row"><strong>Tools &amp; Platforms:</strong> Git, GitHub (Branching, PRs, Merge Conflicts), VS Code, Chrome DevTools, npm.</div>
+<div class="skills-row"><strong>Core Computer Science:</strong> Data Structures &amp; Algorithms, Object-Oriented Programming (OOP), Computer Networks (TCP/IP, HTTP/S), STLC.</div>
+
+<h2>Technical Projects</h2>
+
+<div class="item-header">
+  <span>AR Tech Solutions — Full-Stack Enterprise &amp; Analytics Platform</span>
+  <span>Kadapa &amp; Rayachoti</span>
+</div>
+<div class="item-sub">
+  React 19, Vite, Node.js, Express.js, SQLite3, SheetJS, CSS3 Glassmorphism | Repository: <a href="https://github.com/palagiriasma477-lang/AR-Tech-Solutions">github.com/palagiriasma477-lang/AR-Tech-Solutions</a>
+</div>
+<ul>
+  <li>Engineered a production-grade full-stack platform featuring interactive scope calculators, client enquiry management, and an executive administration portal (<code>/admin</code>).</li>
+  <li>Developed RESTful API endpoints in Node.js/Express backed by persistent SQLite database storage with automated schema migration and input validation.</li>
+  <li>Built an automated real-time communication dispatch engine sending instant dual-administrator WhatsApp and SMS alerts upon form submission.</li>
+  <li>Architected a live visitor traffic analytics dashboard tracking user engagement across multiple timeframes (24h, 3d, 7d, 30d) and implemented on-demand Excel (<code>.xlsx</code>) binary report generation using SheetJS.</li>
+  <li>Designed a responsive, dark glassmorphic user interface with sub-second page loads and zero layout shift.</li>
+</ul>
+
+<div class="item-header">
+  <span>Travel &amp; Tour Discovery Platform</span>
+  <span>Frontend SPA</span>
+</div>
+<div class="item-sub">
+  React JS, JavaScript (ES6+), HTML5, CSS3, Git | Repository: <a href="https://github.com/palagiriasma477-lang">github.com/palagiriasma477-lang</a>
+</div>
+<ul>
+  <li>Engineered a single-page tour and travel web app featuring dynamic package filtering, search capabilities, and itinerary views.</li>
+  <li>Built reusable, modular UI components utilizing React Hooks for state synchronization, optimizing DOM re-renders and improving page speed by ~25%.</li>
+  <li>Implemented robust client-side form validation logic and input sanitization, reducing booking submission errors by 30%.</li>
+</ul>
+
+<div class="item-header">
+  <span>Academic Records &amp; Database Management System</span>
+  <span>Relational Database</span>
+</div>
+<div class="item-sub">
+  MySQL, SQL, Relational Database Modeling (Schema Normalization, Multi-Table JOINs, Query Optimization)
+</div>
+<ul>
+  <li>Designed a 3NF normalized schema for managing student profiles, course enrollments, examination grading, and attendance records.</li>
+  <li>Formulated optimized SQL JOINs, subqueries, and indexing strategies, enhancing query execution speed by ~35% on multi-table datasets.</li>
+</ul>
+
+<h2>Professional Experience</h2>
+<div class="item-header">
+  <span>Sri Sai Institute of Technology and Science</span>
+  <span>Rayachoty, Andhra Pradesh</span>
+</div>
+<div class="item-sub">
+  Technical Faculty &amp; Lab Mentor (Computer Science &amp; Engineering) | 2+ Years
+</div>
+<ul>
+  <li>Spearheaded hands-on programming labs in Web Technologies (HTML5/CSS3/JavaScript) and MySQL Databases for 120+ engineering students.</li>
+  <li>Conducted systematic code debugging and reviews, training students in DRY coding principles, modular architectures, and Git workflows.</li>
+  <li>Mentored student project teams through full SDLC stages, reinforcing version control branching, code reviews, and basic software testing.</li>
+</ul>
+
+<h2>Certifications &amp; Professional Development</h2>
+<ul>
+  <li><b>Quantum Computing FDP:</b> <i>Frontiers of Quantum Computing: Innovations and Applications in Contemporary Science and Engineering</i> — 5-Day Faculty Development Program organized by Dept. of CSE, AITS Kadapa (Autonomous, NBA &amp; NAAC 'A' Grade), Nov 2025 [Cert No: XY1LZG-CE000012].</li>
+  <li><b>Research Tools &amp; Publications FDP:</b> <i>Transforming Research into Quality Publication: Tools, Techniques &amp; Practices</i> — 10-Day Online International Faculty Development Programme organized by Dept. of Business Administration, Annamacharya University, Rajampet, Nov 2025.</li>
+  <li><b>Web Development Certification:</b> <i>Full-Stack Web Development Bootcamp</i> — Comprehensive training in frontend architecture, asynchronous JS, and relational databases (Udemy).</li>
+</ul>
+
+<h2>Education</h2>
+<ul>
+  <li><b>M.Tech in Computer Science and Engineering</b> — Sri Sai Institute of Technology and Science <i>(Pursuing)</i></li>
+  <li><b>B.Tech in Computer Science and Engineering</b> — RGUKT RK Valley, Kadapa <i>(2023 | 85%)</i></li>
+  <li><b>Pre-University Course (Intermediate MPC)</b> — RGUKT RK Valley, Kadapa <i>(2019 | 77%)</i></li>
+  <li><b>Secondary School Certificate (SSC)</b> — Z.P. High School, Andhra Pradesh <i>(2017 | 98%)</i></li>
+</ul>
+
+<table class="signature-table">
+  <tr>
+    <td align="left">
+      <b>Place:</b> Rayachoty, Andhra Pradesh<br>
+      <b>Date:</b> ____________________
+    </td>
+    <td align="right">
+      <br>
+      <b>(PALAGIRI ASMA)</b>
+    </td>
+  </tr>
+</table>
+
+</body>
+</html>
