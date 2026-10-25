@@ -3,27 +3,28 @@
   <!-- Header Banner -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,25,30&height=220&section=header&text=Hi%20there,%20I'm%20Asma%20Palagiri%20👋&fontSize=42&fontColor=ffffff&fontAlignY=40&animation=fadeIn" width="100%" alt="Header Banner" />
 
-  <!-- Avatar & Subtitle -->
+  <!-- Avatar & Profile Intro -->
   <table>
     <tr>
-      <td align="center">
-        <!-- Profile Picture (Place photo.jpg in this repo or keep GitHub auto-avatar) -->
-        <a href="https://github.com/palagiriasma477-lang">
-          <img src="https://github.com/palagiriasma477-lang.png" width="140" height="140" style="border-radius: 50%; border: 3px solid #38bdf8; box-shadow: 0 0 20px rgba(56, 189, 248, 0.4);" alt="Asma Palagiri Avatar" />
-        </a>
-        <br />
-        <h3>🌟 Full-Stack Software Engineer & Solutions Architect</h3>
-        <p>Turning complex problem statements into robust, production-grade applications.</p>
+      <td align="center" width="220">
+        <img src="./profile.jpg" width="180" height="230" style="object-fit: cover; object-position: center top; border-radius: 20px; border: 3px solid #38bdf8; box-shadow: 0 8px 30px rgba(56, 189, 248, 0.4);" alt="Asma Palagiri" />
+      </td>
+      <td align="left" style="padding-left: 20px;">
+        <h2>Asma Palagiri</h2>
+        <h4>🚀 Full-Stack Software Engineer & Solutions Architect</h4>
+        <p>Passionate about building scalable digital platforms, high-performance web applications, and production systems with clean modular architecture.</p>
         
         <!-- Social Badges -->
         <a href="mailto:palagiriasma477@gmail.com">
           <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Asma" />
         </a>
+        &nbsp;
         <a href="https://wa.me/919390011965">
           <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Asma" />
         </a>
+        &nbsp;
         <a href="https://github.com/palagiriasma477-lang/AR-Tech-Solutions">
-          <img src="https://img.shields.io/badge/Portfolio%20Project-000000?style=for-the-badge&logo=github&logoColor=white" alt="Featured Repo" />
+          <img src="https://img.shields.io/badge/Featured%20Project-000000?style=for-the-badge&logo=github&logoColor=white" alt="Featured Repo" />
         </a>
       </td>
     </tr>
@@ -31,14 +32,14 @@
 
   <!-- Dynamic Typing Subtitle -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Full-Stack+Web+%26+Mobile+Development;MERN+Stack+%7C+Node.js+%7C+Express+%7C+Python;Database+Architectures+%26+Cloud+Deployments;Real-Time+Analytics+%26+Workflow+Automation" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Full-Stack+Web+%26+Mobile+Development;MERN+Stack+%7C+Node.js+%7C+Express+%7C+Python;Database+Architectures+%26+Cloud+Deployments;Real-Time+Analytics+%26+Workflow+Automation" alt="Typing SVG" />
   </a>
 
 </div>
 
 ---
 
-### 👨‍💻 About Me
+### 👩‍💻 About Me
 
 ```javascript
 const asma = {
@@ -50,8 +51,8 @@ const asma = {
     database: ["SQLite3", "MongoDB", "PostgreSQL"],
     tools: ["Git", "GitHub", "Postman", "VS Code", "Vercel"]
   },
-  currentFocus: "Building scalable enterprise software and high-impact digital solutions",
-  corePrinciples: ["Clean Code & Modularity", "Zero-Latency UI", "Strict Security Standards"]
+  currentFocus: "Engineering high-reliability commercial software and full-stack solutions",
+  corePrinciples: ["Clean Modular Code", "Zero-Latency Performance", "Strict Security Standards"]
 };
 ```
 
@@ -63,7 +64,7 @@ const asma = {
 
 | Domain | Technologies & Frameworks |
 |:---|:---|
-| **Frontend Engineering** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
+| **Frontend Engineering** | ![React](https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
 | **Backend & APIs** | ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![REST API](https://img.shields.io/badge/REST_APIs-02569B?style=flat-square&logo=fastapi&logoColor=white) |
 | **Databases & Storage** | ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) |
 | **DevOps & Automation** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
